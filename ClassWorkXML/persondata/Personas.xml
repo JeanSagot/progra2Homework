@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons><Person Identification="6683"><Name>Vivian</Name><LastName>Sagot</LastName><Country>Costa Rica</Country><BirthDate>6061980</BirthDate><ParentID>1234</ParentID></Person><Person Identification="5678"><Name>Elisse</Name><LastName>Sagot</LastName><Country>Costa Rica</Country><BirthDate>10290</BirthDate><ParentID>1112</ParentID></Person><Person Identification="1112"><Name>Jean</Name><LastName>Sagot</LastName><Country>Costa Rica</Country><BirthDate>1121995</BirthDate><ParentID>6683</ParentID></Person></Persons>
